@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hallo, ich bin Aaron
 
-<!--
-**aaronkuy/aaronkuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatikstudent an der Goethe-Universität Frankfurt und Gründer des Softwarestudios [Hexese](https://hexese.com).
 
-Here are some ideas to get you started:
+**Gerade:** [Amtsorakel](https://amtsorakel.de), eine App, die Behördenbriefe fotografiert und in einfacher Sprache erklärt. In Entwicklung, noch nicht veröffentlicht.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React Native/Expo und TypeScript, Supabase: Postgres mit Row Level Security, Auth, Storage, Edge Functions
+- Sprachmodell nur serverseitig in einer Edge Function; die App erklärt, berät aber nicht (§ 2 RDG)
+- Eigene Eval-Suite prüft Fristen, Beträge und Verbotswörter und meldet Regressionen
+- Website in 10 Sprachen, statischer Next.js-Export, CSP `default-src 'none'`, keine Aufrufe an fremde Server
+
+Der Quellcode liegt in einem privaten Repository. Einen Einblick gebe ich gern im Gespräch.
+
+**Frühere Projekte**, alle live im Browser: [Typing Trainer](https://aaronkuy.github.io/typing-trainer/) · [Book Finder](https://aaronkuy.github.io/book-finder/) · [Weather](https://aaronkuy.github.io/weather/) · [To-do List](https://aaronkuy.github.io/to-do-list/)
+
+**Stack:** TypeScript · React Native (Expo) · Next.js · PostgreSQL · Supabase · GitHub Actions
+
+[LinkedIn](https://www.linkedin.com/in/aaron-kuyucu-327a71385/) · [hexese.com](https://hexese.com)
