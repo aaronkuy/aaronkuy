@@ -2,7 +2,7 @@
 
 I study Computer Science (B.Sc.) at Goethe University Frankfurt and I am looking for a working-student position in software engineering.
 
-Next to my studies I run [Hexese](https://hexese.com), a one-person software studio. My current project there is Amtsorakel.
+Next to my studies I run [Hexese](https://hexese.com), a software studio. My current project there is Amtsorakel.
 
 ## What I'm learning right now
 
