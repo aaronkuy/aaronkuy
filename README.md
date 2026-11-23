@@ -16,7 +16,7 @@ Next to my studies I run [Hexese](https://hexese.com), a software studio. My cur
 - **Browser exercises** from my first months of web development: HTML, CSS and vanilla JavaScript without a build step. Some of them started from tutorials.
   - [typing-trainer](https://github.com/aaronkuy/typing-trainer): typing practice with live feedback per character, words per minute and an on-screen keyboard.
   - [weather](https://github.com/aaronkuy/weather): looks up the current weather for a city.
-  - [book-finder](https://github.com/aaronkuy/book-finder): searches books by title.
+  - [book-finder](https://github.com/aaronkuy/book-finder): searches for books by title, author or keyword.
   - Also [journaling](https://github.com/aaronkuy/journaling), [to-do-list](https://github.com/aaronkuy/to-do-list), [calculator](https://github.com/aaronkuy/calculator) and [tic-tac-toe](https://github.com/aaronkuy/tic-tac-toe).
 
 The repositories for Amtsorakel and hexese.com are private.
