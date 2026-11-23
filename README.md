@@ -11,7 +11,7 @@ Alongside my studies I run [Hexese](https://hexese.com), a software studio. My c
 
 ## Projects
 
-- **[Amtsorakel](https://amtsorakel.de)** is a mobile app (Expo and React Native, Supabase) that explains German government letters in plain language. It explains what a letter says; it does not give legal advice. In development, not released yet.
+- **[Amtsorakel](https://amtsorakel.de)** is a mobile app (Expo and React Native, Supabase) that explains German government letters in plain language. It does not give legal advice. In development, not released yet.
 - **[hexese.com](https://hexese.com)** is the studio website, a static Next.js export. Its Content Security Policy only allows resources from the site itself (`'self'`) and blocks script network requests (`connect-src 'none'`), so a visit loads nothing from third-party servers. You can check that in the response headers.
 - **Browser exercises** from my first months of web development: HTML, CSS and vanilla JavaScript without a build step. Some of them started from tutorials.
   - [typing-trainer](https://github.com/aaronkuy/typing-trainer): typing practice with live feedback per character, words per minute, accuracy and an on-screen keyboard.
