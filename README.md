@@ -61,11 +61,6 @@ I'm happy to walk through the code in a conversation.
 
 Small, finished exercises from my first months of web development. Each one runs in the browser on GitHub Pages.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-v3-dark.svg">
-  <img alt="Languages: CSS 44 percent, JavaScript 42 percent, HTML 14 percent" src="assets/languages-v3-light.svg" width="700">
-</picture>
-
 | Project | What it is | Live |
 | :-- | :-- | :-- |
 | **[Typing Trainer](https://github.com/aaronkuy/typing-trainer)** | Typing practice inspired by Monkeytype: speed, accuracy, local accounts with lifetime stats. | [Open](https://aaronkuy.github.io/typing-trainer/) |
