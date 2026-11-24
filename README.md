@@ -1,28 +1,35 @@
-# Aaron Kuyucu
+<a href="https://hexese.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"><img alt="Aaron Kuyucu. Computer Science student at Goethe University Frankfurt, founder of Hexese, looking for a working-student role in software engineering." src="assets/hero-dark.svg" width="100%"></picture></a>
 
-I study Computer Science (B.Sc.) at Goethe University Frankfurt and I am looking for a working-student position in software engineering.
+I study Computer Science (B.Sc.) at Goethe University Frankfurt and I'm looking for a working-student position in software engineering. Alongside my studies I run [Hexese](https://hexese.com), my software studio, where I'm building Amtsorakel.
 
-Alongside my studies I run [Hexese](https://hexese.com), a software studio. My current project there is Amtsorakel.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/head-projects-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/head-projects-light.svg"><img alt="Projects" src="assets/head-projects-dark.svg" width="100%"></picture>
 
-## What I'm learning right now
+<a href="https://amtsorakel.de"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-amtsorakel-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-amtsorakel-light.svg"><img alt="Amtsorakel: a mobile app (Expo, React Native, Supabase) that explains letters from German authorities in plain language. It does not give legal advice. The website amtsorakel.de is live; the app is in development and not in the stores yet." src="assets/card-amtsorakel-dark.svg" width="100%"></picture></a>
+<a href="https://hexese.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-hexese-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-hexese-light.svg"><img alt="hexese.com: the studio website, a static Next.js export. It loads nothing from third-party servers; only the account page talks to its own Supabase project." src="assets/card-hexese-dark.svg" width="100%"></picture></a>
 
-- Working the way a team does: issues, branches, pull requests and tagged releases.
-- TypeScript, React Native (Expo) and Supabase, through Amtsorakel.
+<sub>The repositories for Amtsorakel and hexese.com are private.</sub>
 
-## Projects
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/head-exercises-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/head-exercises-light.svg"><img alt="Browser exercises" src="assets/head-exercises-dark.svg" width="100%"></picture>
 
-- **[Amtsorakel](https://amtsorakel.de)** is a mobile app (Expo and React Native, Supabase) that explains German government letters in plain language. It does not give legal advice. In development, not released yet.
-- **[hexese.com](https://hexese.com)** is the studio website, a static Next.js export. Its Content Security Policy only allows resources from the site itself (`'self'`) and blocks script network requests (`connect-src 'none'`), so a visit loads nothing from third-party servers. You can check that in the response headers.
-- **Browser exercises** from my first months of web development: HTML, CSS and vanilla JavaScript without a build step. Some of them started from tutorials.
-  - [typing-trainer](https://github.com/aaronkuy/typing-trainer): typing practice with live feedback per character, words per minute, accuracy and an on-screen keyboard.
-  - [weather](https://github.com/aaronkuy/weather): shows the current weather for a city, with data from Open-Meteo.
-  - [book-finder](https://github.com/aaronkuy/book-finder): searches the Open Library catalogue by title, author or keyword.
-  - Also [journaling](https://github.com/aaronkuy/journaling), [to-do-list](https://github.com/aaronkuy/to-do-list), [calculator](https://github.com/aaronkuy/calculator) and [tic-tac-toe](https://github.com/aaronkuy/tic-tac-toe).
+<a href="https://aaronkuy.github.io/typing-trainer/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ex-typing-trainer-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/ex-typing-trainer-light.svg"><img alt="Typing Trainer: live feedback per character, words per minute, accuracy and an on-screen keyboard." src="assets/ex-typing-trainer-dark.svg" width="49%"></picture></a> <a href="https://aaronkuy.github.io/weather/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ex-weather-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/ex-weather-light.svg"><img alt="Weather: current weather for any city, with data from Open-Meteo." src="assets/ex-weather-dark.svg" width="49%"></picture></a>
+<a href="https://aaronkuy.github.io/book-finder/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ex-book-finder-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/ex-book-finder-light.svg"><img alt="Book Finder: searches the Open Library catalogue by title, author or keyword." src="assets/ex-book-finder-dark.svg" width="49%"></picture></a> <a href="https://aaronkuy.github.io/music-player/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ex-music-player-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/ex-music-player-light.svg"><img alt="Music Player: built on the HTML audio element, with keyboard shortcuts and generated audio loops." src="assets/ex-music-player-dark.svg" width="49%"></picture></a>
+<a href="https://aaronkuy.github.io/journaling/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ex-journaling-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/ex-journaling-light.svg"><img alt="Journaling: create, edit and delete entries, saved in localStorage, with dark mode." src="assets/ex-journaling-dark.svg" width="49%"></picture></a> <a href="https://aaronkuy.github.io/calculator/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ex-calculator-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/ex-calculator-light.svg"><img alt="Calculator: keyboard input and a small expression parser instead of eval()." src="assets/ex-calculator-dark.svg" width="49%"></picture></a>
 
-The repositories for Amtsorakel and hexese.com are private.
+Source code: [typing-trainer](https://github.com/aaronkuy/typing-trainer), [weather](https://github.com/aaronkuy/weather), [book-finder](https://github.com/aaronkuy/book-finder), [music-player](https://github.com/aaronkuy/music-player), [journaling](https://github.com/aaronkuy/journaling), [calculator](https://github.com/aaronkuy/calculator). Also [to-do-list](https://github.com/aaronkuy/to-do-list) and [tic-tac-toe](https://github.com/aaronkuy/tic-tac-toe).
 
-## Contact
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/head-stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/head-stack-light.svg"><img alt="Stack" src="assets/head-stack-dark.svg" width="100%"></picture>
 
-[LinkedIn](https://www.linkedin.com/in/aaron-kuyucu-327a71385/), or the email address shown on this profile.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg"><img alt="TypeScript, JavaScript, React Native, Expo, Next.js, Supabase, PostgreSQL, Node.js, HTML, CSS, Python, Git" src="assets/stack-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg"><img alt="Languages in my public repositories, measured by GitHub: JavaScript, CSS and HTML" src="assets/languages-dark.svg" width="100%"></picture>
 
-<sub>Frankfurt am Main, Germany</sub>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/head-work-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/head-work-light.svg"><img alt="How I work" src="assets/head-work-dark.svg" width="100%"></picture>
+
+<a href="https://github.com/aaronkuy/weather/pull/4"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/work-light.svg"><img alt="Issue 3 in aaronkuy/weather, a branch, pull request 4 with a passing test check, merged with a merge commit." src="assets/work-dark.svg" width="100%"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/head-contact-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/head-contact-light.svg"><img alt="Contact" src="assets/head-contact-dark.svg" width="100%"></picture>
+
+<a href="https://www.linkedin.com/in/aaron-kuyucu-327a71385/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/link-linkedin-light.svg"><img alt="LinkedIn" src="assets/link-linkedin-dark.svg" height="46"></picture></a> <a href="https://hexese.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-hexese-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/link-hexese-light.svg"><img alt="hexese.com" src="assets/link-hexese-dark.svg" height="46"></picture></a> <a href="https://www.instagram.com/aaron.kuy/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-instagram-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/link-instagram-light.svg"><img alt="Instagram" src="assets/link-instagram-dark.svg" height="46"></picture></a> <a href="https://x.com/AaronKuyucu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-x-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/link-x-light.svg"><img alt="X" src="assets/link-x-dark.svg" height="46"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg"><img alt="Thanks for stopping by." src="assets/footer-dark.svg" width="100%"></picture>
+
+<sub>Frankfurt am Main, Germany. This profile lives on [GitHub](https://github.com/aaronkuy/aaronkuy) and is mirrored to [GitLab](https://gitlab.com/aaronkuyucu/aaronkuyucu). The graphics are SVG files in this repository, generated by a small script; they move a little unless your system asks for reduced motion.</sub>
